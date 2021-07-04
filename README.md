@@ -14,7 +14,7 @@
 
 ## Notas
 
-Para poder visualizar el mapa no olvider proporcionar tu API Key de Google Maps.
+Para poder visualizar el mapa no olvides proporcionar tu API Key de Google Maps.
 <a href="https://developers.google.com/maps/documentation/javascript/get-api-key?hl=en#key" target="_blank">
      Aquí puedes obtener tu api key.
 </a>
