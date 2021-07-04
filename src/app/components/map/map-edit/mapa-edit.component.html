@@ -1,0 +1,24 @@
+<form [formGroup]="form">
+  <mat-form-field appearance="fill">
+
+    <mat-label>Título</mat-label>
+    <input matInput formControlName="title"/>
+
+  </mat-form-field>
+  <mat-form-field appearance="fill">
+
+    <mat-label>Descripción</mat-label>
+    <textarea matInput formControlName="description"></textarea>
+
+  </mat-form-field>
+
+  <button mat-raised-button color="primary" (click)="saveChanges()">Guardar</button>
+
+  <button
+    mat-raised-button
+    class="ml-5"
+    color="warn"
+    (click)="closeDialog()"
+  >Cancelar</button>
+  
+</form>
