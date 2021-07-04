@@ -14,6 +14,18 @@
 
 ## Notas
 
+Para poder visualizar el mapa no olvider proporcionar tu API Key de Google Maps.
+<a href="https://developers.google.com/maps/documentation/javascript/get-api-key?hl=en#key" target="_blank">
+     Aquí puedes obtener tu api key.
+</a>
+
+El api key debes proporcionarlo al AgmCoreModule en el archivo app.module.ts
+```
+ AgmCoreModule.forRoot({
+    apiKey: 'your-api-key',
+ }),
+```
+
 Recuerden reconstruir los módulos de Node.
 
 ```
