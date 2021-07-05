@@ -1,4 +1,4 @@
-# FilmsApp
+# MapsApp
 
 <div align="center">
   <h3>
