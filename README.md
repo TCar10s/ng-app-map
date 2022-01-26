@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://app-map.netlify.app/" target="_blank">
+    <a href="https://ng-map-app.netlify.app/" target="_blank">
       Demo
     </a>
   </h3>
